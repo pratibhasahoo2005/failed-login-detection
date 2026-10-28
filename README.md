@@ -10,11 +10,12 @@ A failed login occurs when a user cannot authenticate successfully. Multiple fai
 
 3. Sample Log Data
 
-Time| Username| Source IP| Result
-10:01| admin| 192.0.2.10| Failed
-10:02| admin| 192.0.2.10| Failed
-10:03| admin| 192.0.2.10| Failed
-10:05| analyst| 192.0.2.20| Success
+| Time  | Username | Source IP   | Result  |
+|-------|----------|-------------|---------|
+| 10:01 | admin    | 192.0.2.10  | Failed  |
+| 10:02 | admin    | 192.0.2.10  | Failed  |
+| 10:03 | admin    | 192.0.2.10  | Failed  |
+| 10:05 | analyst  | 192.0.2.20  | Success |
 
 These are fictional examples using documentation-only IP addresses.
 
